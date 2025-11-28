@@ -10,8 +10,8 @@ export const resumeData = {
         location: "Victoria, BC",
         linkedin: "https://www.linkedin.com/in/aishwarya-pujitha23/",
         github: "https://github.com/AishwaryaO23",
-        summary: "Currently pursuing Masters of Applied Data Science at the University of Victoria. Experienced Data Scientist with a strong background in Machine Learning, NLP, and Data Analytics.",
-        about: "Hey! I'm Aishwarya, a data scientist who loves finding the stories hidden inside numbers. I've always been curious about how things work, which led me from building AI models to diving deep into data analytics.\n\nI'm currently leveling up my skills with a Master's in Applied Data Science at UVic. Before this, I spent some time in the industry building everything from chatbot classifiers to automated reporting tools. I'm all about using tech to solve real problems—whether that's helping a business understand their customers or just making a workflow a little less painful.\n\nWhen I'm not coding or staring at graphs, you'll probably find me exploring Victoria, trying out new coffee spots, or getting lost in a good book."
+        summary: "Currently pursuing a Master's in Applied Data Science at the University of Victoria. Experienced Data Scientist with a strong background in Machine Learning, NLP, and Data Analytics.",
+        about: "Hey! I'm Aishwarya, a data scientist who loves finding the stories hidden inside numbers. I've always been curious about how things work, driving me to explore the intersection of predictive AI and practical data storytelling.\n\nI'm currently leveling up my skills with a Master's in Applied Data Science at UVic. Before this, I spent some time in the industry tackling challenges like making chatbots smarter and turning messy data into clear reports. My goal is simple: build tech that actually helps people, whether that's by optimizing a business process or just saving someone hours of manual work.\n\nWhen I'm not coding or staring at graphs, you'll probably find me exploring Victoria, trying out new coffee spots, or getting lost in a good book."
     },
     skills: [
         { name: "Python", icon: FaPython },
